@@ -1,4 +1,4 @@
-### Olá, meu nome é Gabriel Barbosa. 🤙
+### Prazer, meu nome é Gabriel Barbosa.✌️
 [![Blog](https://img.shields.io/website?label=ogabrielbarbosa&style=for-the-badge&url=https://ogabrielbarbosa.com/)](https://ogabrielbarbosa.com)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-barbosa-264956236/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/taldomilionario/)
