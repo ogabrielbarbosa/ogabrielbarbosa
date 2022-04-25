@@ -38,6 +38,8 @@ src="https://raw.githubusercontent.com/gist/ogabrielbarbosa/a69d6f0b1764b4e3b8d3
 <img width="500" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ogabrielbarbosa&layout=compact&theme=onedark" alt="maykbrito's most languages"/>
 </p>
 
+<br>
+
 ## <img src="https://raw.githubusercontent.com/gist/ogabrielbarbosa/def959feff99cc34364a9bb27915b0f8/raw/21080e7f6245b950f8408fac7d82d9d5df562e77/emojiapple.svg" width="40px"> &nbsp;Redes Sociais
 
 <p align="left">
@@ -51,3 +53,5 @@ src="https://raw.githubusercontent.com/gist/ogabrielbarbosa/a69d6f0b1764b4e3b8d3
  <img align="center" src="https://img.shields.io/badge/-ogabrielbarbosa-05122A?style=flat&logo=instagram" alt="instagram"/>
 </a>
 </p>
+
+<br>
