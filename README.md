@@ -35,7 +35,7 @@ src="https://raw.githubusercontent.com/gist/ogabrielbarbosa/a69d6f0b1764b4e3b8d3
 
 <p align="left">
 <img width="500em" src="https://github-readme-stats.vercel.app/api?username=ogabrielbarbosa&show_icons=true&theme=onedark" alt="maykbrito's stats"/>
-<img width="500em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ogabrielbarbosa&layout=compact&theme=onedark" alt="maykbrito's most languages"/>
+<img width="500" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ogabrielbarbosa&layout=compact&theme=onedark" alt="maykbrito's most languages"/>
 </p>
 
 <br>
