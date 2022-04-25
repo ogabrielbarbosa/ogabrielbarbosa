@@ -9,8 +9,6 @@ src="https://raw.githubusercontent.com/gist/ogabrielbarbosa/a69d6f0b1764b4e3b8d3
 
 - 💬 Me pergunte sobre **JavaScript, HTML, CSS, SQL, Node.JS**
 
-<br><br>
-
 ## 🛠 &nbsp;Stacks
 <div style="display: inline_block">
     <img align="center" alt"html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
