@@ -22,6 +22,8 @@ src="https://raw.githubusercontent.com/gist/ogabrielbarbosa/a69d6f0b1764b4e3b8d3
     <img align="center" alt"node" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/>
 </div>
 
+<br><br>
+
 ## ⚙️ &nbsp;GitHub Analytics
 
 <p align="left">
