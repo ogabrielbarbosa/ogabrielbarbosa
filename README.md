@@ -7,11 +7,11 @@ src="https://raw.githubusercontent.com/gist/ogabrielbarbosa/a69d6f0b1764b4e3b8d3
 
 - 👨‍💻 Todos meus projetos estão para acesso em [ogabrielbarbosa.netlify.app](https://ogabrielbarbosa.netlify.app/)
 
-- 💬 Me pergunte sobre **JavaScript, HTML, CSS, SQL, Node.JS**
+- 💆🏻‍♂️ Gosto de desenvolver aplicativos por **Hobby**
 
-- 💬 Me pergunte sobre **JavaScript, HTML, CSS, SQL, Node.JS**
+- <img src="https://raw.githubusercontent.com/gist/ogabrielbarbosa/2dbadef560f2064931feb896244968a5/raw/b0e6c9823b5230b6f653895e6464b1c86db1f673/instagramlogo.svg" width="20px"> Me siga no [Instagram](https://www.instagram.com/taldomilionario/)
 
-- 💬 Me pergunte sobre **JavaScript, HTML, CSS, SQL, Node.JS**
+- <img src="https://raw.githubusercontent.com/gist/ogabrielbarbosa/1a73eb00be76244ab06a20ea283e7a0c/raw/181dbc09937a721e9b359ea6c7ea802ca9864179/tiktoklogo.svg" width="20px"> Me siga no [TikTok](https://www.tiktok.com/@taldomilionario)
 
 - 💬 Me pergunte sobre **JavaScript, HTML, CSS, SQL, Node.JS**
 
