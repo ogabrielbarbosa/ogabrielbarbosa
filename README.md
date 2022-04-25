@@ -40,7 +40,7 @@ src="https://raw.githubusercontent.com/gist/ogabrielbarbosa/a69d6f0b1764b4e3b8d3
 
 <br>
 
-## <img src="https://raw.githubusercontent.com/gist/ogabrielbarbosa/def959feff99cc34364a9bb27915b0f8/raw/21080e7f6245b950f8408fac7d82d9d5df562e77/emojiapple.svg" width="40px"> &nbsp;Redes Sociais
+## <img src="https://raw.githubusercontent.com/gist/ogabrielbarbosa/163b63be959fe87556b9c54977eac728/raw/a759c019128d985fd12a54488288966d0c79870f/emojiapple.svg" width="40px"> &nbsp;Redes Sociais
 
 <p align="left">
 <a href="https://twitter.com/maykbrito" target="_blank">
