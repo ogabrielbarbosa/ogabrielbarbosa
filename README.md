@@ -24,8 +24,8 @@
 ## ⚙️ &nbsp;GitHub Analytics
 
 <p align="left">
-<img width="530em" src="https://github-readme-stats.vercel.app/api?username=ogabrielbarbosa&show_icons=true&theme=onedark" alt="maykbrito's stats"/>
-<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ogabrielbarbosa&layout=compact&theme=onedark" alt="maykbrito's most languages"/>
+<img width="500em" src="https://github-readme-stats.vercel.app/api?username=ogabrielbarbosa&show_icons=true&theme=onedark" alt="maykbrito's stats"/>
+<img width="500" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ogabrielbarbosa&layout=compact&theme=onedark" alt="maykbrito's most languages"/>
 </p>
 
 ## <img src="https://raw.githubusercontent.com/gist/ogabrielbarbosa/def959feff99cc34364a9bb27915b0f8/raw/21080e7f6245b950f8408fac7d82d9d5df562e77/emojiapple.svg" width="40px"> &nbsp;Mídias Sociais
