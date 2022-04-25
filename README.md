@@ -35,7 +35,7 @@ src="https://raw.githubusercontent.com/gist/ogabrielbarbosa/a69d6f0b1764b4e3b8d3
 
 <p align="left" style="background:yellow">
     
-[![Blog](https://img.shields.io/website?label=ogabrielbarbosa&style=for-the-badge&url=https://ogabrielbarbosa.netlify.app/)](https://ogabrielbarbosa.com)
+[![Blog](https://img.shields.io/website?label=ogabrielbarbosa&style=for-the-badge&url=https://ogabrielbarbosa.netlify.app/)](https://ogabrielbarbosa.netlify.app/)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ogabriel-barbosa22/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/taldomilionario/)
     
