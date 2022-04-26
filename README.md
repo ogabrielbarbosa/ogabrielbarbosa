@@ -5,7 +5,7 @@ src="https://raw.githubusercontent.com/gist/ogabrielbarbosa/a69d6f0b1764b4e3b8d3
 
 - 🔥 Desenvolvedor React Junior & empresário
 
-- 👨‍💻 Todos meus projetos estão para acesso no meu [Portfólio](https://ogabrielbarbosa.netlify.app/)
+- 👨‍💻 Todos meus projetos estão para acesso em [https://ogabrielbarbosa.netlify.app/](https://ogabrielbarbosa.netlify.app/)
 
 - 💆🏻‍♂️ Gosto de desenvolver aplicativos por **Hobby**
 
