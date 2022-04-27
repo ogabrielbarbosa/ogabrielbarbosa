@@ -43,13 +43,13 @@ src="https://raw.githubusercontent.com/gist/ogabrielbarbosa/a69d6f0b1764b4e3b8d3
 ## <img src="https://raw.githubusercontent.com/gist/ogabrielbarbosa/163b63be959fe87556b9c54977eac728/raw/a759c019128d985fd12a54488288966d0c79870f/emojiapple.svg" width="25px"> &nbsp;Redes Sociais
 
 <p align="left">
-<a href="https://twitter.com/maykbrito" target="_blank">
+<a href="https://twitter.com/barbozs_a" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-ogabrielbarbosa-05122A?style=flat&logo=twitter" alt="twitter"/>  
 </a>
-<a href="https://linkedin.com/in/maykbrito" target="_blank">
+<a href="https://www.linkedin.com/in/ogabriel-barbosa22/" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-ogabrielbarbosa-05122A?style=flat&logo=linkedin" alt="linkedin"/>
 </a>
-<a href="https://instagram.com/maykbrito" target="_blank">
+<a href="https://instagram.com/taldomilionario" target="_blank">
  <img align="center" src="https://img.shields.io/badge/-ogabrielbarbosa-05122A?style=flat&logo=instagram" alt="instagram"/>
 </a>
 </p>
