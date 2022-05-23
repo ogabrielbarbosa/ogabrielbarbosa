@@ -1,6 +1,6 @@
-
+<!--
 <img align="right" height="590em"
-src="https://raw.githubusercontent.com/gist/ogabrielbarbosa/a69d6f0b1764b4e3b8d310eec16e5ab5/raw/75babc78b2a5d2f9284e4f8b9a346d92ca0ff4df/githubcard.svg"/>
+src="https://raw.githubusercontent.com/gist/ogabrielbarbosa/a69d6f0b1764b4e3b8d310eec16e5ab5/raw/75babc78b2a5d2f9284e4f8b9a346d92ca0ff4df/githubcard.svg"/> -->
 <h1 align="left">Yo yo yo, what up.</h1>
 
 - 🔥 Businessman and React Developer 
