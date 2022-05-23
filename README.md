@@ -1,19 +1,19 @@
 
 <img align="right" height="590em"
 src="https://raw.githubusercontent.com/gist/ogabrielbarbosa/a69d6f0b1764b4e3b8d310eec16e5ab5/raw/75babc78b2a5d2f9284e4f8b9a346d92ca0ff4df/githubcard.svg"/>
-<h1 align="left">Olá <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, Eu sou o Gabriel Barbosa.</h1>
+<h1 align="left">Yo yo yo, what up.</h1>
 
-- 🔥 Desenvolvedor React Junior & empresário
+- 🔥 Businessman and React Developer 
 
-- 👨‍💻 Todos meus projetos estão para acesso em [https://ogabrielbarbosa.netlify.app/](https://ogabrielbarbosa.netlify.app/)
+- 👨‍💻 My portifolio[https://ogabrielbarbosa.netlify.app/](https://ogabrielbarbosa.netlify.app/)
 
-- 💆🏻‍♂️ Gosto de desenvolver aplicativos por **Hobby**
+- 💆🏻‍♂️ I like to develop apps by Hobby
 
-- <img src="https://raw.githubusercontent.com/gist/ogabrielbarbosa/2dbadef560f2064931feb896244968a5/raw/b0e6c9823b5230b6f653895e6464b1c86db1f673/instagramlogo.svg" width="20px"> Me siga no [Instagram](https://www.instagram.com/taldomilionario/)
+- <img src="https://raw.githubusercontent.com/gist/ogabrielbarbosa/2dbadef560f2064931feb896244968a5/raw/b0e6c9823b5230b6f653895e6464b1c86db1f673/instagramlogo.svg" width="20px"> Follow me on [Instagram](https://www.instagram.com/taldomilionario/)
 
-- <img src="https://raw.githubusercontent.com/gist/ogabrielbarbosa/1a73eb00be76244ab06a20ea283e7a0c/raw/181dbc09937a721e9b359ea6c7ea802ca9864179/tiktoklogo.svg" width="20px"> Me siga no [TikTok](https://www.tiktok.com/@taldomilionario)
+- <img src="https://raw.githubusercontent.com/gist/ogabrielbarbosa/1a73eb00be76244ab06a20ea283e7a0c/raw/181dbc09937a721e9b359ea6c7ea802ca9864179/tiktoklogo.svg" width="20px"> Follow me on [TikTok](https://www.tiktok.com/@taldomilionario)
 
-- 💬 Me pergunte sobre **JavaScript, HTML, CSS, SQL, Node.JS**
+- 💬 Ask me about **JavaScript, HTML, CSS, SQL, Node.JS**
 
 <br>
 
@@ -40,7 +40,7 @@ src="https://raw.githubusercontent.com/gist/ogabrielbarbosa/a69d6f0b1764b4e3b8d3
 
 <br>
 
-## <img src="https://raw.githubusercontent.com/gist/ogabrielbarbosa/163b63be959fe87556b9c54977eac728/raw/a759c019128d985fd12a54488288966d0c79870f/emojiapple.svg" width="25px"> &nbsp;Redes Sociais
+## <img src="https://raw.githubusercontent.com/gist/ogabrielbarbosa/163b63be959fe87556b9c54977eac728/raw/a759c019128d985fd12a54488288966d0c79870f/emojiapple.svg" width="25px"> &nbsp;Social Medias
 
 <p align="left">
 <a href="https://twitter.com/barbozs_a" target="_blank">
