@@ -3,11 +3,11 @@
 src="https://raw.githubusercontent.com/gist/ogabrielbarbosa/a69d6f0b1764b4e3b8d310eec16e5ab5/raw/75babc78b2a5d2f9284e4f8b9a346d92ca0ff4df/githubcard.svg"/> -->
 <h1 align="left">Opa, como vai?</h1>
 
-- 🔥 Desenvolvedor ReactJs/Native
+- 🔥 Desenvovledor Frontend | React JS, JavaScript, TypeScript
 
-- 👨‍💻 Meu portifólio[https://ogabrielbarbosa.netlify.app/](https://ogabrielbarbosa.netlify.app/)
+- 👨‍💻 Meu portifólio[https://gabarbosa.com](https://gabarbosa.com)
 
-- 💆🏻‍♂️ Gosto de desenvolver aplicativos e site por hobbie
+- 💆🏻‍♂️ Gosto de desenvolver sites e aplicativos mobiles.
 
 - <img src="https://raw.githubusercontent.com/gist/ogabrielbarbosa/2dbadef560f2064931feb896244968a5/raw/b0e6c9823b5230b6f653895e6464b1c86db1f673/instagramlogo.svg" width="20px"> Me siga no [Instagram](https://www.instagram.com/gabrielbabarreto/)
 
