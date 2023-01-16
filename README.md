@@ -45,7 +45,7 @@ src="https://raw.githubusercontent.com/gist/ogabrielbarbosa/a69d6f0b1764b4e3b8d3
   <img align="center" src="https://img.shields.io/badge/-ogabrielbarbosa-05122A?style=flat&logo=linkedin" alt="linkedin"/>
 </a>
 <a href="https://instagram.com/gabrielbabarreto" target="_blank">
- <img align="center" src="https://img.shields.io/badge/-ogabrielbarbosa-05122A?style=flat&logo=instagram" alt="instagram"/>
+ <img align="center" src="https://img.shields.io/badge/-gabrielbabarreto-05122A?style=flat&logo=instagram" alt="instagram"/>
 </a>
 </p>
 
