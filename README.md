@@ -5,7 +5,7 @@ src="https://raw.githubusercontent.com/gist/ogabrielbarbosa/a69d6f0b1764b4e3b8d3
 
 - 🔥 Desenvovledor Frontend | React JS, JavaScript, TypeScript
 
-- 👨‍💻 Meu portifólio[https://gabarbosa.com](https://gabarbosa.com)
+- 👨‍💻 Meu [portifólio](https://gabarbosa.com)
 
 - 💆🏻‍♂️ Gosto de desenvolver sites e aplicativos mobiles.
 
