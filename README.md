@@ -1,6 +1,6 @@
 ### Hello there 👋
 
-#### A Full-Stack Developer by day ☼ and a Laravel Community Contributor by night ☾
+#### A Entrepreneur/Developer by day/night ☼ and Batman by overnight ☾
 
 Dropout high school to start my first business – Helped other experts sell their online courses. We did over R$400k ($75k) in revenue within 3 months – that’s when I started using product development to help me work better.
 
@@ -9,5 +9,5 @@ Worked with several companies as a React developer, then shifted to no-code. Aft
 And I've got 2 other side projects in currently development...👀.
 
 - ⚙️ I use daily: `.ts`, `.tsx`, `.n8n`, `.supabase`, `.bubble.io`
-- 🌐 You can check my Instagram account, I help juniors to conquer their first job [@ogabarbosa](https://instagram.com/ogabarbosa)
+- 🌐 On Instagram I help juniors land their first job [@ogabarbosa](https://instagram.com/ogabarbosa)
 - 💬 `ping` me about **design**, **no-code**, **ai**, **development**, **automation**, **n8n**, **supabase**
